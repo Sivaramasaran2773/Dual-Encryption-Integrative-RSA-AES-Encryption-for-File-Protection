@@ -22,3 +22,18 @@ DECRYPTION:
 
 ### Dual-Encryption Storage Flow Chart:
 ![image](https://github.com/Sivaramasaran2773/Dual-Encryption-Integrative-RSA-AES-Encryption-for-File-Protection/assets/96780921/538666e6-0468-499c-949b-9c3e8948ca89)
+
+## Execution of Programs:
+1. Dual-Encryption: Secure Chat
+
+*Make sure that you call the aes1.py in both the server and client files.*
+   
+In Terminal-1:
+<code> python3 server.py </code>
+
+In Terminal-2:
+<code> python3 client.py </code>
+
+3. Dual-Encryption: Storage
+   
+<code> python3 setup.py </code>
